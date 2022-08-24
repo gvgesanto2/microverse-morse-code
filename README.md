@@ -17,6 +17,11 @@
 - Twitter: [@GabrielSanto997](https://twitter.com/GabrielSanto997)
 - LinkedIn: [Gabriel Santo](https://linkedin.com/in/gabriel-santo-5882a71b2/)
 
+👤 **Walter Velasquez**
+
+- GitHub: [@sirvelasque](https://github.com/sirvelasque)
+- Twitter: [@GabrielSanto997](https://twitter.com/WalteWalter)
+- LinkedIn: [Gabriel Santo](https://linkedin.com/in/sirvelasque/)
 
 ## 🤝 Contributing
 
