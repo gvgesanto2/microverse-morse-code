@@ -41,3 +41,6 @@ class MorseCodeDecoder
   end
 end
 
+decoder = MorseCodeDecoder.new
+
+puts decoder.decode(' .-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
