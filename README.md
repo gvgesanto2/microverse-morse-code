@@ -19,9 +19,9 @@
 
 👤 **Walter Velasquez**
 
-- GitHub: [@sirvelasque](https://github.com/sirvelasque)
-- Twitter: [@GabrielSanto997](https://twitter.com/WalteWalter)
-- LinkedIn: [Gabriel Santo](https://linkedin.com/in/sirvelasque/)
+- GitHub: [@Sirvelasque](https://github.com/sirvelasque)
+- Twitter: [@WalterWalte](https://twitter.com/WalteWalter)
+- LinkedIn: [Walter Velasquez](https://linkedin.com/in/sirvelasque/)
 
 ## 🤝 Contributing
 
